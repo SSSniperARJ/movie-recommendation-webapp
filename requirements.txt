@@ -3,6 +3,5 @@ flask_cors
 pandas
 numpy
 scikit-learn
-Gunicorn
 openpyxl
 nltk
